@@ -1,0 +1,11 @@
+{
+  "version": "0.1",
+  "x86_64-linux": {
+    "url": "https://orionbrowser.com/download/oriongtk-early-beta",
+    "hash": "sha256-bX2k0SPyPuaGhYBKJfEn/QnIK2BLBfDjaku8eGfQ+Z4="
+  },
+  "aarch64-linux": {
+    "url": "https://orionbrowser.com/download/oriongtk-early-beta-arm64",
+    "hash": "sha256-vpyr7BRW44IAqEhtzKyWHdt/SM3y+Rqpxb+oAVXuoQU="
+  }
+}
