@@ -1,8 +1,11 @@
-# Orion Browser
+># Orion Browser
 
 This is my Orion Browser nix flake for Linux. This is just a flatpak wrapper for the official Orion Browser beta flatpak bundle.
 > [!CAUTION]
-> This is a very early beta of Orion Browser. Any bugs you find should be reported to the Orion team at: [https://orionfeedback.org/t/desktop-linux](https://orionfeedback.org/t/desktop-linux)
+> This is a very early beta of Orion Browser. Any bugs you find should be reported to the Orion team at: <br> [https://orionfeedback.org/t/desktop-linux](https://orionfeedback.org/t/desktop-linux).
+
+> [!NOTE]
+> Launching for the first time will take some time as the flatpak dependencies install. 
 
 ## Supported Architectures
 - `x86_64-linux`
