@@ -1,4 +1,4 @@
-># Orion Browser
+# Orion Browser
 
 This is my Orion Browser nix flake for Linux. This is just a flatpak wrapper for the official Orion Browser beta flatpak bundle.
 > [!CAUTION]
